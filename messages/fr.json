@@ -1,0 +1,178 @@
+{
+  "Announcement": {
+    "shipping": "Livraison offerte dès 30000 DA d'achat",
+    "natural": "Miel 100% pur et naturel",
+    "rating": "Avis clients 4.8/5"
+  },
+  "Nav": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "honeys": "Nos Miels",
+    "honeyFlowers": "Miel de fleurs",
+    "honeyLavender": "Miel de lavande",
+    "honeyMountain": "Miel de montagne",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "search": "Rechercher",
+    "cart": "Panier",
+    "menu": "Menu"
+  },
+  "Hero": {
+    "titleLine1": "Le meilleur de la ruche,",
+    "titleLine2": "pour votre bien-être.",
+    "subtitle": "Découvrez nos miels 100% naturels, récoltés avec passion et respect des abeilles, partout en Algérie.",
+    "ctaPrimary": "Découvrir nos miels",
+    "ctaSecondary": "Voir la boutique",
+    "badge": "Miels 100% purs et naturels"
+  },
+  "Trust": {
+    "naturalTitle": "100% Naturel",
+    "naturalDesc": "Sans additifs, sans conservateurs",
+    "harvestTitle": "Récolté avec soin",
+    "harvestDesc": "Dans le respect des abeilles",
+    "qualityTitle": "Qualité premium",
+    "qualityDesc": "Miels sélectionnés avec exigence",
+    "deliveryTitle": "Livraison rapide",
+    "deliveryDesc": "Partout en Algérie"
+  },
+  "Home": {
+    "eyebrow": "NOS MIELS",
+    "title": "Découvrez nos miels d'exception",
+    "viewAll": "Voir toute la boutique",
+    "noProducts": "Aucun produit disponible pour le moment.",
+    "loadError": "Impossible de charger les produits pour le moment. Veuillez réessayer plus tard.",
+    "testimonialsEyebrow": "TÉMOIGNAGES",
+    "testimonialsTitle": "Ils nous font confiance"
+  },
+  "Product": {
+    "featured": "Vedette",
+    "viewProduct": "Voir le produit →",
+    "from": "À partir de"
+  },
+  "Boutique": {
+    "eyebrow": "BOUTIQUE",
+    "title": "Toute notre gamme de miels",
+    "productCount": "produit(s)",
+    "sortBy": "Trier par",
+    "sortRelevance": "Pertinence",
+    "sortPriceAsc": "Prix croissant",
+    "sortPriceDesc": "Prix décroissant",
+    "apply": "Appliquer",
+    "noProducts": "Aucun produit disponible pour le moment.",
+    "loadError": "Impossible de charger les produits pour le moment."
+  },
+  "ProductPage": {
+    "quantity": "Quantité",
+    "inStock": "en stock",
+    "outOfStock": "Rupture de stock",
+    "orderNow": "Commander maintenant",
+    "addToCart": "Ajouter au panier",
+    "added": "Ajouté ✓",
+    "relatedTitle": "Vous aimerez aussi",
+    "notFound": "Produit introuvable.",
+    "loadError": "Impossible de charger ce produit pour le moment. Veuillez réessayer plus tard."
+  },
+  "Cart": {
+    "title": "Mon panier",
+    "empty": "Votre panier est vide",
+    "emptyDesc": "Découvrez nos miels d'exception et faites votre choix.",
+    "viewShop": "Voir la boutique",
+    "singleItemNotice": "Chaque commande ne peut contenir qu'un seul produit à la fois. Cliquez sur « Commander » pour finaliser un article — vous pourrez ensuite revenir commander les autres.",
+    "order": "Commander",
+    "remove": "Retirer",
+    "totalEstimate": "Total estimé (hors livraison)"
+  },
+  "Checkout": {
+    "title": "Finaliser ma commande",
+    "fullName": "Nom complet",
+    "fullNamePlaceholder": "Ex: Amine Belkacem",
+    "phone": "Téléphone",
+    "email": "Email (optionnel)",
+    "wilaya": "Wilaya",
+    "chooseWilaya": "Choisir…",
+    "delivery": "Livraison",
+    "deliveryHome": "Domicile",
+    "deliveryAgency": "Agence",
+    "address": "Adresse",
+    "addressPlaceholder": "Rue, quartier, ville…",
+    "note": "Note (optionnel)",
+    "notePlaceholder": "Instructions de livraison, etc.",
+    "confirm": "Confirmer la commande",
+    "summary": "Résumé de la commande",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "confirmedTitle": "Commande confirmée !",
+    "confirmedDesc": "Merci pour votre confiance. Un email de confirmation vous a été envoyé.",
+    "orderNumber": "Numéro de commande",
+    "status": "Statut",
+    "loading": "Chargement…",
+    "noProductSelected": "Aucun produit sélectionné.",
+    "productNotFound": "Produit introuvable.",
+    "productLoadError": "Impossible de charger le produit.",
+    "genericError": "Une erreur est survenue. Veuillez réessayer.",
+    "errors": {
+      "name": "Veuillez indiquer votre nom complet.",
+      "phone": "Numéro invalide (ex: 0551234567).",
+      "email": "Email invalide.",
+      "wilaya": "Veuillez choisir une wilaya.",
+      "address": "Veuillez indiquer une adresse complète."
+    }
+  },
+  "Footer": {
+    "tagline": "Miel 100% naturel, récolté avec soin par des apiculteurs passionnés à travers l'Algérie.",
+    "navTitle": "Navigation",
+    "serviceTitle": "Service client",
+    "shop": "Boutique",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "myCart": "Mon panier",
+    "order": "Commander",
+    "cod": "Paiement à la livraison",
+    "deliveryAllWilayas": "Livraison dans toutes les wilayas",
+    "newsletterTitle": "Newsletter",
+    "newsletterDesc": "Recevez nos offres et nouveautés.",
+    "emailPlaceholder": "Votre email",
+    "copyright": "Miel d'Or — Naturellement bon"
+  },
+  "About": {
+    "eyebrow": "NOTRE HISTOIRE",
+    "title": "Une passion transmise de génération en génération",
+    "p1": "Miel d'Or est né de la rencontre entre des familles d'apiculteurs algériens et l'exigence d'un miel pur, sans additifs ni compromis. Chaque pot est récolté avec soin, dans le respect des abeilles et de leur rythme naturel.",
+    "p2": "De la lavande des hauts plateaux aux fleurs sauvages du littoral, nous sélectionnons nos miels directement auprès de ruchers locaux pour vous garantir une qualité constante et authentique.",
+    "valueAuthenticityTitle": "Authenticité",
+    "valueAuthenticityDesc": "Aucun additif, aucun sucre ajouté, jamais.",
+    "valueRespectTitle": "Respect",
+    "valueRespectDesc": "Une récolte douce, respectueuse des colonies.",
+    "valueProximityTitle": "Proximité",
+    "valueProximityDesc": "Des partenariats directs avec nos apiculteurs."
+  },
+  "Blog": {
+    "eyebrow": "LE JOURNAL",
+    "title": "Actualités & conseils"
+  },
+  "Contact": {
+    "eyebrow": "CONTACT",
+    "title": "Une question ? Parlons-en.",
+    "subtitle": "Notre équipe vous répond du samedi au jeudi, de 9h à 18h.",
+    "phone": "Téléphone",
+    "email": "Email",
+    "address": "Adresse",
+    "addressValue": "Kouba ,Alger, Algérie",
+    "formName": "Nom",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "send": "Envoyer le message",
+    "formNote": "Ce formulaire est un placeholder — branchez-le à votre service d'emailing préféré (Resend, mailto, etc.)."
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "desc": "Cette page n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil"
+  },
+  "LocaleSwitcher": {
+    "label": "Langue"
+  }
+}

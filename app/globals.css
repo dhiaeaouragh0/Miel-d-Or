@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-gold: #c9882a;
+  --color-gold-dark: #a66e1e;
+  --color-espresso: #2a1f14;
+  --color-cream: #fbf6ec;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-espresso);
+}
+
+/* [dir="rtl"] .font-serif {
+  font-family: var(--font-cairo), Tahoma, sans-serif;
+}
+
+
+  clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);
+} */
+
+[dir="rtl"] .font-serif {
+  font-family: var(--font-cairo), Tahoma, sans-serif;
+}
+
+.hex {
+  clip-path: polygon(
+    25% 6.7%,
+    75% 6.7%,
+    100% 50%,
+    75% 93.3%,
+    25% 93.3%,
+    0% 50%
+  );
+}
+
+.eyebrow {
+  letter-spacing: 0.18em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-gold-dark);
+}
+
+.btn-primary {
+  background-color: var(--color-gold);
+  color: white;
+  border-radius: 0.4rem;
+  padding: 0.85rem 1.75rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+.btn-primary:hover {
+  background-color: var(--color-gold-dark);
+}
+
+.btn-outline {
+  border: 1.5px solid var(--color-espresso);
+  color: var(--color-espresso);
+  border-radius: 0.4rem;
+  padding: 0.85rem 1.75rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+.btn-outline:hover {
+  background-color: var(--color-espresso);
+  color: white;
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
